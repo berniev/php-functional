@@ -1,5 +1,5 @@
 {
-  "name": "berniev/php-functional",
+  "name": "berniev/php-arrays-functional",
   "description": "arrays in a functional-programming-like way",
   "minimum-stability": "stable",
   "license": "proprietary",
@@ -9,6 +9,6 @@
     }
   ],
   "require": {
-    "php": ">=8.0"
+    "php": ">=8.0.0"
   }
 }
