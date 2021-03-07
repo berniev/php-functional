@@ -1,0 +1,14 @@
+{
+  "name": "berniev/php-functional",
+  "description": "arrays in a functional-programming-like way",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Bernie van't Hof"
+    }
+  ],
+  "require": {
+    "php": ">=8.0"
+  }
+}
